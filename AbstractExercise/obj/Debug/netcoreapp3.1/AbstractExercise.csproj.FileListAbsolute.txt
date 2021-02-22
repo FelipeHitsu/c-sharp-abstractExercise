@@ -1,0 +1,13 @@
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\AbstractExercise\AbstractExercise\bin\Debug\netcoreapp3.1\AbstractExercise.exe
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\AbstractExercise\AbstractExercise\bin\Debug\netcoreapp3.1\AbstractExercise.deps.json
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\AbstractExercise\AbstractExercise\bin\Debug\netcoreapp3.1\AbstractExercise.runtimeconfig.json
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\AbstractExercise\AbstractExercise\bin\Debug\netcoreapp3.1\AbstractExercise.runtimeconfig.dev.json
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\AbstractExercise\AbstractExercise\bin\Debug\netcoreapp3.1\AbstractExercise.dll
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\AbstractExercise\AbstractExercise\bin\Debug\netcoreapp3.1\AbstractExercise.pdb
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\AbstractExercise\AbstractExercise\obj\Debug\netcoreapp3.1\AbstractExercise.csprojAssemblyReference.cache
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\AbstractExercise\AbstractExercise\obj\Debug\netcoreapp3.1\AbstractExercise.AssemblyInfoInputs.cache
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\AbstractExercise\AbstractExercise\obj\Debug\netcoreapp3.1\AbstractExercise.AssemblyInfo.cs
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\AbstractExercise\AbstractExercise\obj\Debug\netcoreapp3.1\AbstractExercise.csproj.CoreCompileInputs.cache
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\AbstractExercise\AbstractExercise\obj\Debug\netcoreapp3.1\AbstractExercise.dll
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\AbstractExercise\AbstractExercise\obj\Debug\netcoreapp3.1\AbstractExercise.pdb
+C:\Users\felipe.santos\Documents\Codes\Treinamento C#\AbstractExercise\AbstractExercise\obj\Debug\netcoreapp3.1\AbstractExercise.genruntimeconfig.cache
